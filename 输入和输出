@@ -1,4 +1,17 @@
 # JavaScript
 JavaScript入门笔记
 
-输入和输出
+写法：1.行内式
+      2.内嵌式：运用<script>内容...</script>标签   常用
+      3.外部JS文件：<script scr=”文件名”></script> 大程序常用
+多行注释：shift+alt+a
+
+
+申明变量：var age=18或‘未知’
+
+
+输入与输出：prompt（）：弹出输入框，用户可以输入
+            alert（）：弹出警示框，与用户形成交互
+            console.log：浏览器控制台打印输出信息（F12）
+变量的输入与输出：var myname=prompt(‘...’)
+                  alert(‘...’)
